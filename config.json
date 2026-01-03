@@ -1,0 +1,7 @@
+{
+    "token": "INSERT_TOKEN",
+    "targetGuildId": "LISTENER_GUILD_ID",
+    "targetChannelId": "LISTENER_CHANNEL_ID",
+    "sourceGuildId": "SOURCE_GUILD_ID",
+    "sourceChannelId": "SOURCE_CHANNEL_ID"
+}
